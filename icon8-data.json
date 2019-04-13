@@ -1,0 +1,26 @@
+{
+  "gradient": [
+  [
+    "/000000/bookmark.png",
+    "Bookmark"
+  ],
+   [
+    "/000000/delete-sign.png",
+    "Delete"
+  ],
+  [
+    "/000000/edit.png",
+    "Edit"
+  ],  
+   [
+    "/000000/search.png",
+    "Search"
+  ], 
+    
+   [
+    "/000000/share.png",
+    "Share"
+  ]
+    
+  ]
+}
