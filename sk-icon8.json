@@ -33,7 +33,23 @@
    [
     "/000000/plus.png",
     "Plus"
-  ]
+  ],
+  [
+    "/000000/refresh.png",
+    "Refresh"
+  ],
+  [
+    "/000000/trash.png",
+    "Trash"
+  ],
+  [
+    "/000000/synchronize.png",
+    "Synchronize"
+  ], 
+  [
+    "/000000/upload-2.png",
+    "Cloud"
+  ],
     
   ]
 }
