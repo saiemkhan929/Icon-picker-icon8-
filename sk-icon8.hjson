@@ -1,0 +1,43 @@
+{
+  
+///////////////////////////////////////
+  // @ Gradient Icons
+////////////////////////////////////////
+  "gradient": [
+  [
+    "/000000/bookmark.png",
+    "Bookmark"
+  ],
+   [
+    "/000000/delete-sign.png",
+    "Delete"
+  ],
+  [
+    "/000000/edit.png",
+    "Edit"
+  ],  
+   [
+    "/000000/search.png",
+    "Search"
+  ], 
+    
+   [
+    "/000000/share.png",
+    "Share"
+  ],
+    
+  [
+    "/000000/restart.png",
+    "Restart"
+  ],
+  [
+    "/000000/delete.png",
+    "Trash Can"
+  ],
+   [
+    "/000000/plus.png",
+    "Plus"
+  ]
+    
+  ]
+}
